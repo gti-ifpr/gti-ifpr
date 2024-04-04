@@ -1,6 +1,7 @@
 ##  Olá 👋
 
 Organização das disciplinas de Projetos Interdisciplinares do curso de Gestão da Tecnologia da Informação, no Instituto Federal do Paraná (IFPR) campus Pinhais.
+Aqui encontram-se também os repositórios dos projetos desenvolvidos pelos acadêmicos e documentação associada, bem como das atividades de extensão realizadas na comunidade.
 
 Professora responsável:
 
