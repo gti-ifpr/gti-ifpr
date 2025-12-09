@@ -4,7 +4,6 @@ Repositório das disciplinas de Projetos Interdisciplinares I, II e III, do curs
 Aqui encontram-se também os repositórios dos projetos desenvolvidos pelos acadêmicos e documentação associada, bem como as atividades de curricularização da extensão realizadas.
 
 Professora responsável:
-
 Lauriana Paludo - lauriana.paludo@ifpr.edu.br 
 
 <!---
