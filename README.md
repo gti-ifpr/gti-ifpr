@@ -2,6 +2,7 @@
 
 Repositório das disciplinas de Projetos Interdisciplinares I, II e III, do curso de Gestão da Tecnologia da Informação, do Instituto Federal do Paraná (IFPR) campus Pinhais.
 Aqui encontram-se também os repositórios dos projetos desenvolvidos pelos acadêmicos e documentação associada, bem como as atividades de curricularização da extensão realizadas.
+Para facilitar a localização, os mesmos estão organizados por ano de apresentação e marcados como favoritos ou  "stars". 
 
 Professora responsável:
 Lauriana Paludo - lauriana.paludo@ifpr.edu.br 
